@@ -1,0 +1,8 @@
+# vscode
+.vscode/
+# windows binaries
+*.exe
+# files without extensions (unix binaries)
+*
+!/**/
+!*.*
